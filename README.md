@@ -19,11 +19,13 @@
 
 <br>
 
+<p align="center">
   <a href="https://github.com/fu-sasa">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fu-sasa&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="fu-sasa's github stats" height="220px" />
   </a>
+</p>
 
-<br>
+<hr>
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
